@@ -426,6 +426,7 @@
 |-|------|--------|------|
 |1|[Count Primes](https://leetcode.com/problems/count-primes/)|Medium|[Solution](/solutions/sieve-eratosthenes.md)|
 |2|[Four Divisors](https://leetcode.com/problems/four-divisors/)|Medium|[Solution](/solutions/sieve-eratosthenes.md)|
+|3|[Prime Pairs with Target Sum](https://leetcode.com/problems/prime-pairs-with-target-sum/description/)|[Solution](/solutions/sieve-eratosthenes.md)|
 
 ## 31. Sliding Window
 
