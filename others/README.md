@@ -1,0 +1,55 @@
+| S.No | Problem                                                                                                                                   | Difficulty | Solution                         |
+| ---- | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------------------------------- |
+| 1    | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                         | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                                         | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 3    | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)                                                         | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 4    | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)                                         | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 5    | [Remove Nth Node](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)                                            | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 6    | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/)                                     | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 7    | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)                                                         | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 8    | [Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)                                   | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 9    | [Next Greater Element-I](https://leetcode.com/problems/next-greater-element-i/description/)                                               | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 10   | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/)                                           | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 11   | [Min Stack](https://leetcode.com/problems/min-stack/description/)                                                                         | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 12   | [Next Greater Element - II](https://leetcode.com/problems/next-greater-element-ii/description/)                                           | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 13   | [Course Schedule](https://leetcode.com/problems/course-schedule/description/)                                                             | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 14   | [Longest Increasing Path in Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)                                   | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 15   | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                                     | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 16   | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)                                   | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 17   | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)                                                                       | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 18   | [Merge Two Sorted List](https://leetcode.com/problems/merge-two-sorted-lists/description/)                                                | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 19   | [Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)                       | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 20   | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                                                           | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 21   | [Middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)                                             | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 22   | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)                           | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 23   | [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/description/)                                             | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 24   | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)                                                             | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 25   | [Insert Intervals](https://leetcode.com/problems/insert-interval/description/)                                                            | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 26   | [Non Overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)                                         | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 27   | [Sort Array By Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/description/)                       | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 28   | [Kth Largest Element in An Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)                             | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 29   | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)                                             | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 30   | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/)                                   | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 31   | [Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/description/) | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 32   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)                                                             | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 33   | [Pascals Triangle](https://leetcode.com/problems/pascals-triangle/description/)                                                           | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 34   | [Best Time To Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)                             | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 35   | [Jump Game](https://leetcode.com/problems/jump-game/description/ )                                                                        | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 36   | [Unique Paths](https://leetcode.com/problems/unique-paths/description/)                                                                   | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 37   | [Flood Fill](https://leetcode.com/problems/flood-fill/)                                                                                   | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 38   | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)                                                                  | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 39   | [Sort The People](https://leetcode.com/problems/sort-the-people/description/)                                                             | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 40   | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/)                                                   | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 41   | [Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/description/)                                   | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 42   | [Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/description/)                                         | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 43   | [Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/)                                               | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 44   | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/ )                                                      | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 45   | [Construct String From Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)                                     | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 46   | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)                                       | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 47   | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)                                                               | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 48   | [Permutation-II](https://leetcode.com/problems/permutations-ii/description/)                                                              | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 49   | [Combination Sum- II](https://leetcode.com/problems/combination-sum-ii/description/)                                                      | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 50   | [Word Search](https://leetcode.com/problems/word-search/description/)                                                                     | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 51   | [Combination Sum](https://leetcode.com/problems/combination-sum/description/)                                                             | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 52   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)                                                   | Medium     | [Solution](/others/SOLUTIONS.md) |
+| 53   | [Permutations](https://leetcode.com/problems/permutations/description/)                                                                   | Medium     | [Solution](/others/SOLUTIONS.md) |
